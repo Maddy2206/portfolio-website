@@ -28,7 +28,7 @@ const items = [
     color: ' from-orange-300 to-indigo-500',
     desc: "Designed and developed a personal portfolio website showcasing my skills, projects, and achievements. This visually appealing and user-friendly platform effectively highlights your professional journey and expertise.",
     img: "/portfolio.png",
-    link: ""
+    link: "https://github.com/Maddy2206/portfolio-website"
   },
   {
     id: 4,
