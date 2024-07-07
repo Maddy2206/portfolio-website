@@ -22,9 +22,8 @@ const pathName=usePathname();
         exit={{opacity:0}}
         transition={{duration:0.8,ease:"easeOut"}}
         >
-            {pathName.substring(1)?`${pathName.substring(1)}`:"Home"}
+            {pathName.substring(1)?`${pathName.substring(1).toUpperCase()}`:"HOME"}
             </motion.div>
-
             <motion.div className="h-screen w-screen fixed bg-black rounded-b-[100px] z-40"
         initial={{height:"140vh"}}
     animate={{height:"0vh",transition:{delay:0.5}}}

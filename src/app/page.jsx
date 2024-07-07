@@ -24,7 +24,7 @@ const Homepage = () => {
         <h1 className="text-4xl md:text-4xl font-bold lg:text-5xl">Hello, I am</h1>
         <h1 className="text-6xl font-bold">Medhansh Rawat</h1>
         <p className="md:text-xl">
-        I am a second-year student pursuing my B.Tech in Computer Science and Engineering at IIT Mandi. I am passionate about Web Development, Machine Learning, Generative AI, and problem-solving with a strong affinity for Mathematics.
+        I am a third-year student pursuing my B.Tech in Computer Science and Engineering at IIT Mandi. I am passionate about Web Development, Machine Learning, Generative AI, and problem-solving with a strong affinity for Mathematics.
         </p>
         <div className="flex gap-4">
           <Button onClick={downloadResume} className='flex gap-2'><Download></Download>Resume</Button>
