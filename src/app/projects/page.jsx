@@ -7,11 +7,13 @@ import { Button } from '@/components/ui/button';
 import { ExternalLink, Github } from 'lucide-react';
 
 
+
+
 const items = [
   {
     id: 1,
     title: "Contentify",
-    color: 'from-blue-300 to-violet-500',
+    color: 'from-blue-200 to-violet-600',
     desc: "Contentify is an AI-powered website that generates content based on user prompts. From writing articles to crafting social media posts, Contentify has the capability to produce high-quality, engaging content for all your needs.",
     img: "/contentify.png",
     link: "https://github.com/Maddy2206/Contentify",
@@ -20,7 +22,7 @@ const items = [
   {
     id: 2,
     title: "SkillSync ATS",
-    color: 'from-yello-300 to-pink-500',
+    color: 'from-yellow-300 to-pink-400',
     desc: "Skill Sync ATS is a specialized tool that matches candidate resumes with job descriptions, offering tailored recommendations and generating interview questions designed to enhance candidates' chances of securing a job.",
     img: "/SkillSync.png",
     link: "https://github.com/Maddy2206/SkillSync-ATS",
@@ -29,7 +31,7 @@ const items = [
   {
     id: 3,
     title: "Portfolio website",
-    color: ' from-orange-300 to-indigo-500',
+    color: ' from-cyan-200 to-indigo-600',
     desc: "Designed and developed a personal portfolio website showcasing my skills, projects, and achievements. This visually appealing and user-friendly platform effectively highlights your professional journey and expertise.",
     img: "/portfolio.png",
     link: "https://github.com/Maddy2206/portfolio-website",
@@ -38,7 +40,7 @@ const items = [
   {
     id: 4,
     title: "Intelliform",
-    color: 'from-teal-300 to-indigo-300',
+    color: 'from-teal-300 to-indigo-500',
     desc: "Intelliform is an AI-powered form builder that automates the process of creating forms. Users can easily customize the appearance of their forms, and seamlessly share and download responses.",
     img: "/intelliform.png",
     link: "https://github.com/Maddy2206/AI-Form-Builder",
